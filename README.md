@@ -1,2 +1,2 @@
 # Java
-Java Programlama Dili ile Yaptığım Projeler.
+My Projects with Java Programming Language. 
