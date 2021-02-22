@@ -1,0 +1,2 @@
+Object-Oriented Programming'e giriş olarak ArrayList kullanmadan sadece Object
+listler ile basit bir markete ürün ekleme silme listeleme uygulaması.
