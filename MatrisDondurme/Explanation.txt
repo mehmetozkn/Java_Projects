@@ -1,2 +1,0 @@
-Kullanıcının girdiği satır ve sutun sayısında ki matrisin çerçevesindeki
-elemanları kullanıcının seçtiği yönde ve sayıda döndürme projesi.
