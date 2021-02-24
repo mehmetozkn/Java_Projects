@@ -1,2 +1,4 @@
 Kullanıcının girdiği satır ve sutun boyutundaki matrisin çerçevesindeki
 elemanlarını kullanıcının seçtiği yönde ve sayıda döndürme projesi.
+
+A project to rotate the elements of the matrix in the row and column size that the user enters, in the direction and number the user chooses.
