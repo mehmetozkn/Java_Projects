@@ -1,2 +1,7 @@
+***** TURKISH *****
 Object-Oriented Programming'e giriş olarak Alışveriş sepetine
 ürün ekleme listeleme ve ürünlere indirim uygulama programı.
+
+***** ENGLISH *****
+The application of adding products to the shopping cart, listing products
+and discounting products as an introduction to Object-Oriented Programming.
