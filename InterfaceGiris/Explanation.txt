@@ -1,3 +1,7 @@
+***** TURKISH *****
 Interface konusuna giriş olarak yaptığım fabrikaya personel ekleme listeleme personele zam yapma.
-Personelden kalıtım alarak işçi stajyer mühendis sınıfı oluşturma
-ve bu sınıflardaki personelleri listeleme zam yapma uygulaması.
+Personelden kalıtım alarak işçi stajyer mühendis sınıfı oluşturma ve bu sınıflardaki personelleri listeleme zam yapma uygulaması.
+
+***** ENGLISH *****
+As an introduction to the interface, adding personnel to the factory, listing personnel and to raise the salaries of the personnel.
+To create a class of workers, interns and engineers inheriting from personnel and listing staff in these classes and the practice of raising their salaries.
