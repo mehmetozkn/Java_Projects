@@ -1,2 +1,7 @@
+***** TURKISH *****
 Object-Oriented Programming'e giriş olarak ArrayList kullanmadan sadece Object
 listler ile basit bir markete ürün ekleme silme listeleme uygulaması.
+
+***** ENGLISH *****
+Application of adding, deleting and listing products to a market with only object lists
+without using ArrayList as an introduction to object Oriented Programming.
