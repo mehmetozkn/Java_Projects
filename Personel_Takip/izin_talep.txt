@@ -1,0 +1,7 @@
+Personnel with 1 Id requested leave between 1/1 - 15/2
+Personnel with 6 Id requests leave between 1/1 - 8/2
+Personnel with 2 Id requested leave between 1/1 - 10/1
+Personnel with 4 Id requested leave between 1/1 - 5/1
+Personnel with 5 Id request leave between 1/1 - 6/1
+Personnel with 6 Id request leave between 1/1 - 2/4
+Personnel with 15 Id request leave between 1/1 - 5/1
