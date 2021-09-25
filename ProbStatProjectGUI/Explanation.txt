@@ -1,0 +1,3 @@
+PROBABILITY AND STATISTICS PROJECT.
+
+Kaggle sitesinden seçtiğim veri setindeki veriler ile Olasılık ve Istatistik dersinde yaptığım proje.
